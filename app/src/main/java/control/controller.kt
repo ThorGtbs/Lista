@@ -1,4 +1,10 @@
 package control
 
-class controller {
+import model.Pessoa
+
+class controller() {
+
+    fun save(pessoa: Pessoa) {
+
+    }
 }
